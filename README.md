@@ -1,16 +1,13 @@
-## Hi there 👋
+## Open Sauce
 
-<!--
-**N-Shar-ma/N-Shar-ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Don't let your spaghetti code stale by itself,  
+Come stir it in with the rest in open sauce.  
+For the biggest feast for all, bring from the shelf,  
+Raspberries & chips, to be safe also salt.  
 
-Here are some ideas to get you started:
+Go on, have a byte, chance upon an easter egg.  
+No spoons here, but you're free to use a fork.  
+Allow yourself cookies, down a full J-peg.  
+Remix recipes, give and take a spaghetti block.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+\- Me
